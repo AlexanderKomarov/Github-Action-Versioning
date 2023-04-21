@@ -1,6 +1,6 @@
 {
   "name": "github-action-versioning",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Github Action to generate a version number based on the current branch.",
   "main": "./lib/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/sceccotti89/Github-Action-Versioning#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.10.0",
     "@actions/github": "^4.0.0"
   },
   "devDependencies": {
